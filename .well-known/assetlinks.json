@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "kr.chocokupo.choco",
-        "sha256_cert_fingerprints": ["D7:6A:DA:F2:4B:E4:9D:61:09:F9:78:E1:60:78:D7:40:22:BE:6A:A4:3F:F6:F6:A8:81:F3:AB:75:6C:4E:0A:64"]
+        "sha256_cert_fingerprints": ["42:06:06:99:78:E8:CB:A9:3B:90:55:70:58:38:D4:0D:EC:C5:8F:F5:B2:F3:10:B9:9C:A8:6B:17:E8:72:5F:12"]
       }
     }]
